@@ -11,3 +11,4 @@ function Book(props) {
 
 export default Book;
 // 연습
+// 연습 2
